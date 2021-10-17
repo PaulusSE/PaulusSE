@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding Python DJango
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on other people
-- 📫 How to reach me: just here
+- 📫 How to reach me: here or in VK
 
 <!---
 PaulusSE/PaulusSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
